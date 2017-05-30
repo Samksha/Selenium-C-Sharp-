@@ -1,0 +1,12 @@
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.dll
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.Support.dll
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\YamlDotNet.dll
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.xml
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.Support.xml
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\YamlDotNet.xml
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\samkshabhardwaj\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
